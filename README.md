@@ -31,3 +31,7 @@ the function name should be `log-archive`
 takes one argument which is the path to the logs directory 
 
 see the log-archive.sh for the script.
+
+
+#### using the tool
+to use the tool you need to first run the command `source log-archive.sh` and then use the command `log-archive <log-path`
